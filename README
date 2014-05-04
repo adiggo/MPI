@@ -1,0 +1,9 @@
+I have used OpenMPI 1.8 as my tool to implement this problem. 
+
+To run the program: 
+
+first compile:  run  "make all"
+then run " mpirun -np 4 ./gameoflife" 
+
+to clean run "make clean"
+
